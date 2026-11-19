@@ -3,7 +3,7 @@ import { fixupPluginRules } from '@eslint/compat';
 import pluginJs from '@eslint/js';
 import pluginReact from 'eslint-plugin-react';
 import pluginHooks from 'eslint-plugin-react-hooks';
-import pluginCypress from 'eslint-plugin-cypress/flat';
+import pluginCypress from 'eslint-plugin-cypress';
 import daStyle from 'eslint-config-dicodingacademy';
 
 export default [
